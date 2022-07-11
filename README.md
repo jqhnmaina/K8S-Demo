@@ -8,3 +8,5 @@ Kubernetes demo
 `kubectl apply -f mongo.yaml`
 
 `kubectl apply -f webapp.yaml`
+
+`minikube service webapp-service --url`
